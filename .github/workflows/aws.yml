@@ -1,4 +1,4 @@
-name: AWS 3.6
+name: AWS Python 3.6
 on: [push]
 jobs:
   build:
