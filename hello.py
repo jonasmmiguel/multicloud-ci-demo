@@ -4,8 +4,8 @@ def add(x, y):
 
 
 def multiply(x, y):
-    "This multiplies two inputs"
-    ...
+    """This multiplies two inputs"""
+    return x * y 
     
     
 print(add(1, 1))
