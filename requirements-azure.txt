@@ -1,4 +1,6 @@
+pip-chill
 pytest
 click
 pylint
 pytest-cov
+black

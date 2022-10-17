@@ -1,3 +1,4 @@
+pip-chill
 pytest
 click
 pylint
