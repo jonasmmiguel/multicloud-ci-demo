@@ -1,4 +1,4 @@
-![actions status](https://github.com/noahgift/github-actions-demo/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
+![AWS build](https://github.com/jonasmmiguel/multicloud-ci-demoworkflows/AWS%20Python%203.6/badge.svg)](https://github.com/jonasmmiguel/multicloud-ci-demoworkflows/actions)
 
 # github-actions-demo
 This is a repo for building out Github Actions and Tricks.  I test multiple clouds and multiple versions of Python.
