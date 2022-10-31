@@ -1,5 +1,5 @@
 [![AWS build](https://github.com/jonasmmiguel/multicloud-ci-demo/workflows/AWS%20Python%203.6/badge.svg)](https://github.com/jonasmmiguel/multicloud-ci-demo/actions)
-[![Azure build](https://github.com/jonasmmiguel/multicloud-ci-demo/workflows/Azure%20Python%203.6/badge.svg)](https://github.com/jonasmmiguel/multicloud-ci-demo/actions)
+[![Azure build](https://github.com/jonasmmiguel/multicloud-ci-demo/workflows/Azure%20Python%203.9/badge.svg)](https://github.com/jonasmmiguel/multicloud-ci-demo/actions)
 [![GCP build](https://github.com/jonasmmiguel/multicloud-ci-demo/workflows/GCP%20Python%203.7/badge.svg)](https://github.com/jonasmmiguel/multicloud-ci-demo/actions)
 
 # GitHub Actions Demo
