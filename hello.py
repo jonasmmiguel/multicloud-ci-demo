@@ -1,6 +1,6 @@
 def add(x, y):
     """Adds two numbers"""
-    return x + y + 1
+    return x + y
 
 
 def multiply(x, y):
