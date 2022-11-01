@@ -1,9 +1,5 @@
-from hello import add, multiply
+from hello import multiply
 
-
-def test_add():
-    assert 2 == add(1, 1)
-    
     
 def test_multiply():
     assert multiply(3,-2) == -6
